@@ -1,0 +1,5 @@
+print("Practice 1 Complete!")
+print("Git and Python Basics")
+print("WARFACE")
+print("KING OF THE WORLD")
+print("JUST DO IT")
