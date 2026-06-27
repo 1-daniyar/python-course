@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "receipt_number": "0000457821",
+    "email": "support@theglory.kz",
+    "phone": "+7 (727) 350-12-34"
+  },
+  "datetime": {
+    "date": "27/06/2026",
+    "time": "14:35:08"
+  },
+  "items": [
+    {
+      "name": "Silicone Toilet Brush",
+      "qty": 3,
+      "unit_price": 1550.0,
+      "line_total": 4650.0
+    },
+    {
+      "name": "Microfiber Cloth Pack",
+      "qty": 2,
+      "unit_price": 890.5,
+      "line_total": 1781.0
+    },
+    {
+      "name": "Dish Drying Rack",
+      "qty": 1,
+      "unit_price": 3200.0,
+      "line_total": 3200.0
+    },
+    {
+      "name": "Storage Box 20L",
+      "qty": 4,
+      "unit_price": 750.0,
+      "line_total": 3000.0
+    },
+    {
+      "name": "Spray Bottle 500ml",
+      "qty": 5,
+      "unit_price": 320.75,
+      "line_total": 1603.75
+    }
+  ],
+  "all_prices": [
+    1550.0,
+    4650.0,
+    890.5,
+    1781.0,
+    3200.0,
+    3200.0,
+    750.0,
+    3000.0,
+    320.75,
+    1603.75,
+    14234.75,
+    -1423.48,
+    1537.35,
+    14348.62
+  ],
+  "amounts": {
+    "subtotal": 14234.75,
+    "discount": -1423.48,
+    "vat": 1537.35
+  },
+  "total_on_receipt": 14348.62,
+  "items_line_total": 14234.75,
+  "payment": {
+    "method": "Kaspi QR",
+    "card": "**** **** **** 4831",
+    "approval_code": "582013"
+  }
+}
